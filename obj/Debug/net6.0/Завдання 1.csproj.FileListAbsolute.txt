@@ -1,0 +1,15 @@
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.csproj.AssemblyReference.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.AssemblyInfoInputs.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.AssemblyInfo.cs
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.csproj.CoreCompileInputs.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\bin\Debug\net6.0\Завдання 1.exe
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\bin\Debug\net6.0\Завдання 1.deps.json
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\bin\Debug\net6.0\Завдання 1.runtimeconfig.json
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\bin\Debug\net6.0\Завдання 1.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\bin\Debug\net6.0\Завдання 1.pdb
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\refint\Завдання 1.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.pdb
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\Завдання 1.genruntimeconfig.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 1 (2 семестр)\Завдання 1\obj\Debug\net6.0\ref\Завдання 1.dll
